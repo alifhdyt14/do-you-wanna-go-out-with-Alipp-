@@ -13,5 +13,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
 const yesButton = document.getElementById('yesButton');
 
 yesButton.addEventListener('click', () => {
-    window.location.href = 'yes.html';
+    window.location.href = 'yes_page.html';
 });
